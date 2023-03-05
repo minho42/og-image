@@ -1,0 +1,18 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Min ho Kim <minho42@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mustache": "^4.2.0",
+    "puppeteer": "^19.7.2",
+    "slugify": "^1.6.5"
+  }
+}
